@@ -1,0 +1,7 @@
+Para poder usas este programa tiene que levantar y conectar una base de datos con pymongo.
+Una vez que tenga el string de conexion, la base de datos creada y la coleccion creada en el 
+archivo "datos.py" en la variable "conexion" colocar el string de conexion, en la variable "base_datos"
+colocar el nombre de la base de datos y en la variable "coleccion" colocar el nombre de la coleccion
+creada.
+
+Una vez editado esas variables tiene que guardar los cambios que realizo el mismo y ya puede usar el programa

@@ -1,6 +1,3 @@
-conexion = "mongodb+srv://@cluster0.if2ad.mongodb.net/"
-base_datos = "repuestos_tp1"
-coleccion = "repuestos"
-    
-
-
+conexion = "string de conexion"
+base_datos = "nombre de la base de datos"
+coleccion = "nombre de la coleccion"
